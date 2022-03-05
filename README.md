@@ -1,7 +1,7 @@
-Hi, 👋, I'm Genie!
-I am a front-end Developer.
-I like funny things, it makes me happy 😸.
-Recently I start writting articles on [https://justnote.coderbridge.io/](https://justnote.coderbridge.io/) about what I've learned about web.
+Hi, 👋, I'm Genie!</br>
+I am a front-end Developer.</br>
+I like funny things, it makes me happy 😸.</br>
+Recently I start writting articles on [https://justnote.coderbridge.io](https://justnote.coderbridge.io) about what I've learned about web.
 
 ## 🧠 Skills that I know and use
 
